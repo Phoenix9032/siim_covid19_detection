@@ -104,7 +104,7 @@ torchaudio==0.8.1
 torchmetrics==0.4.1
 torchvision==0.9.1+cu111
 tqdm==4.61.0
-transformers==4.6.1
+transformers==4.52.0
 typing-extensions==3.7.4.3
 urllib3==1.26.5
 wandb==0.10.31

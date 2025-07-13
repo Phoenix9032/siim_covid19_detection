@@ -14,3 +14,4 @@ numpy<=1.17.5
 matplotlib
 
 omegaconf==2.0.0rc24
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability

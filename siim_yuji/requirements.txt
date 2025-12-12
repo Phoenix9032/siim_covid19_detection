@@ -106,7 +106,7 @@ torchvision==0.9.1+cu111
 tqdm==4.61.0
 transformers==4.6.1
 typing-extensions==3.7.4.3
-urllib3==1.26.5
+urllib3==2.6.0
 wandb==0.10.31
 Werkzeug==2.0.1
 wrapt==1.12.1

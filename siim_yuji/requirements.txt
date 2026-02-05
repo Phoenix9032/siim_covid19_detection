@@ -58,7 +58,7 @@ pathtools==0.1.2
 Pillow==8.2.0
 pretrainedmodels==0.7.4
 promise==2.3
-protobuf==3.17.2
+protobuf==5.29.6
 psutil==5.8.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
